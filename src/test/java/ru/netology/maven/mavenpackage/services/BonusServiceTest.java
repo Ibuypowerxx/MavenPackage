@@ -1,4 +1,5 @@
 package ru.netology.maven.mavenpackage.services;
+
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
 
